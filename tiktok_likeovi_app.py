@@ -7,9 +7,9 @@ import requests
 app = Flask(__name__)
 
 # Panel configuration
-PANEL_URL = "https://crescitaly.com/api/v2"
-API_KEY = "26887ccde43faa454b0e74dae9cfc2d5"
-SERVICE_ID = 18269
+PANEL_URL = "https://godofpanel.com/api/v2"
+API_KEY = "ff9e106148468ef7b5639e9b46e2d2f4"
+SERVICE_ID = 8771
 
 
 HTML_TEMPLATE = """
